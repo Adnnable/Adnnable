@@ -8,7 +8,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:828/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **iUVO Platform**
 
 - 🌱 I’m currently learning **React Native, NodeJS**
 

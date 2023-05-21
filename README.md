@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adnnable@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adnan-khan-470674214/](https://www.linkedin.com/in/adnan-khan-470674214/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/adnan-khan-470674214/](https://www.linkedin.com/in/adnnable)
 
 - ⚡ Fun fact **I use tab over spaces**
 
